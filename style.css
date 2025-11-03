@@ -149,6 +149,7 @@ nav a {
   position: relative;
   width: var(--card-width);
   height: var(--card-height);
+  color: red;
 }
 
 .nav-button {
@@ -280,7 +281,7 @@ nav a {
   text-align: center;
   font-size: 14px;
   margin-top: 20px;
-  color: var(--white-glow);
+  color: var(--red-glow);
 }
 
 /* --- RESPONSIVO --- */
@@ -333,7 +334,7 @@ body.index-page {
 .logo-link {
   display: inline-block;
   margin: 20px;
-  color: var(--gold-color);
+  color: var(--red-color);
   font-weight: bold;
   text-decoration: none;
 }
@@ -373,7 +374,7 @@ body.personagens-page {
 .logo-link {
   display: inline-block;
   margin: 20px;
-  color: var(--gold-color);
+  color: red;
   font-weight: bold;
   text-decoration: none;
 }
