@@ -267,7 +267,11 @@ nav a {
 }
 
 .card-front.Beth-Washington{
-  background-image: url('https://static0.srcdn.com/wordpress/wp-content/uploads/2021/11/Ashley-Until-Dawn1.jpg?q=50&fit=crop&w=825&dpr=1.5');
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_oCFjD68A8Vyf1aLfZjZz89wsUKxmgvRnywlgRJwpLaHiNRY-OTOoTurOq8SIjE8i6HE&usqp=CAU');
+}
+
+.card-front.Wendigo{
+  background-image: url('https://vignette.wikia.nocookie.net/villains/images/2/2e/Wendigo4.png/revision/latest?cb=20150827181723');
 }
 
 /* --- TEXTO PS1 --- */
